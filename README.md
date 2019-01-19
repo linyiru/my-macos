@@ -26,3 +26,11 @@
 
 
 ## Shell 環境
+
+## 開發環境
+
+關閉特殊字元的輸入（Disable the Character Accent Menu）
+
+```shell
+defaults write -g ApplePressAndHoldEnabled -bool false
+```
