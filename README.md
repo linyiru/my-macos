@@ -29,13 +29,13 @@
 
 ## 開發環境
 
+
 在 vscode 啟用 Vim 模式後利用 `hjkl` 移動游標時速度很慢，要用以下指令（To disable the press and hold for VSCode only）
+或是全域關閉特殊字元的輸入（To disable the Character Accent Menu）
 
 ```shell
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 ```
-
-關閉特殊字元的輸入（To disable the Character Accent Menu）
 
 ```shell
 defaults write -g ApplePressAndHoldEnabled -bool false
