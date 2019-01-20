@@ -22,7 +22,7 @@
 
 
 範例：
-  * [我的 Brewfile](linyiru/dotfiles/blob/master/Brewfile)
+  * [我的 Brewfile](https://github.com/linyiru/dotfiles/blob/master/Brewfile)
 
 
 ## Shell 環境
