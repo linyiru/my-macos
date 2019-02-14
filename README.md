@@ -7,28 +7,60 @@
 * Alfred
 * Contexts
 
-### 常用開發工具
 ### 生產力工具
-### 寫作軟體
+
+* Visual Studio Code 搭配 vim 模式
+* TaskPaper
+
+### 寫作 & 筆記軟體
+
+* Bear
+* iA Writer
+* Ulysses
+
+偶爾也會直接在 vscode 裡面寫 Markdown。
+
+### 通訊 & 協作
+
+* Telegram
+* Slack
+* Trello
+* Quip
+
+### 其他常用軟體
+
+* Fantastical 2
+* 1Password
+
+## 開發相關
+
+### 開發用的軟體清單
+
+* Visual Studio Code
+* SnippetsLab
+* Quiver
+* Tower 2
+* iTerm 2
 
 
+### Homebrew
 
-## 使用 Homebrew 管理軟體的安裝、升級
+使用 Homebrew 管理軟體的安裝、升級
 
+#### mas-cli
 
-### mas-cli
+#### Homebrew-bundle & Brewfile
 
-### Homebrew-bundle & Brewfile
+#### Homebrew Cask & homebrew-cask-upgrade
 
 
 範例：
   * [我的 Brewfile](https://github.com/linyiru/dotfiles/blob/master/Brewfile)
 
 
-## Shell 環境
+### Shell 環境
 
-## 開發環境
-
+### 開發環境
 
 在 vscode 啟用 Vim 模式後利用 `hjkl` 移動游標時速度很慢，要用以下指令（To disable the press and hold for VSCode only）
 或是全域關閉特殊字元的輸入（To disable the Character Accent Menu）
