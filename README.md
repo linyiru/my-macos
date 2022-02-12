@@ -4,16 +4,16 @@
 
 ### 整體環境
 
-* Alfred
-* Contexts
+* Raycast
 
 ### 生產力工具
 
 * Visual Studio Code 搭配 vim 模式
-* TaskPaper
 
-### 寫作 & 筆記軟體
+### 筆記軟體
 
+* LogSeq
+* Obsidian
 * Bear
 * iA Writer
 * Ulysses
@@ -24,8 +24,8 @@
 
 * Telegram
 * Slack
-* Trello
-* Quip
+* Asana
+* Notion
 
 ### 其他常用軟體
 
@@ -39,7 +39,7 @@
 * Visual Studio Code
 * SnippetsLab
 * Quiver
-* Tower 2
+* Sourcetree
 * iTerm 2
 
 
